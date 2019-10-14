@@ -1,4 +1,7 @@
+{
+ "METERDATA" :
 
+[
 {"ASSETNUM":"TMO-1000004",
  "CHANGEBY":"M3",
  "CHANGEDATE":null,
@@ -226,4 +229,6 @@
  "ORGID":"2101",
  "SITEID":"787",
  "METERNAME":"RUNHRS"}
+ ]
  
+}
