@@ -1,6 +1,3 @@
-{
- "METERDATA" :
-
 [
 {"ASSETNUM":"TMO-1000004",
  "CHANGEBY":"M3",
@@ -231,4 +228,4 @@
  "METERNAME":"RUNHRS"}
  ]
  
-}
+
